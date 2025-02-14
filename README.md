@@ -1,2 +1,2 @@
-Visualize Activation Maps:
-Description: Visualize activation maps to understand which image regions activate CNN filters for age detection. Guidelines: You can use any of your pre trained model (made by you) for this task. GUI is not necessary for this task.
+## Interpreting-CNN-Filters-for-Age-Detection-via-Activation-Maps
+### This research seeks to show activation maps within a pre-trained Convolutional Neural Network (CNN) for age identification. By examining these maps, we can determine which picture areas are most significant in the network's age prediction process.
